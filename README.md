@@ -24,7 +24,8 @@ This project aims to implement object detection using OpenCV, TensorFlow, and Py
 
 ## Usage
 
-1. Run `objectdetection.ipynb` using Jupyter Notebook or JupyterLab. Follow the instructions provided within the notebook to perform object detection on images or video streams.
+1. ## Run
+ `objectdetection.ipynb` using Jupyter Notebook or JupyterLab. Follow the instructions provided within the notebook to perform object detection on images or video streams.
    
    ```bash
    jupyter notebook objectdetection.ipynb
